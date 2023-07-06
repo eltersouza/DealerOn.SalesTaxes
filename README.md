@@ -24,14 +24,14 @@ For solving this I thought of creating a structure based on Domain Driven Design
 ## Architecture
 
 The application was divided in:
-    - Console
-        - The Console project is the actual console application.
-    - Core
-        - The Core project is where things actually happens. All Services are in this one.
-    - Domain
-        - The Domain project would host all Data structure, in the case I'm just using it to host models.
-    - Tests
-        - This Tests project is where all tests are done.
+* Console
+  * The Console project is the actual console application.
+* Core
+  * The Core project is where things actually happens. All Services are in this one.
+* Domain
+  * The Domain project would host all Data structure, in the case I'm just using it to host models.
+* Tests
+  * This Tests project is where all tests are done.
 
 The application is pretty straightforward without any unecessary stuff.
 
