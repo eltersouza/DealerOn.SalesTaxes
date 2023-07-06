@@ -38,7 +38,7 @@ namespace DealerOn.SalesTaxes.Core.Services
             if (item.IsImported)
                 taxes += item.Price * 0.05M;
 
-            return taxes;
+            return Math.Round(taxes, 2);
         }
     }
 }

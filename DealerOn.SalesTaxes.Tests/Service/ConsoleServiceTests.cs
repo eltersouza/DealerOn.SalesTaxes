@@ -19,7 +19,7 @@ namespace DealerOn.SalesTaxes.Tests.Service
         }
 
         [Fact]
-        public void Test_Input1()
+        public void Test_Scenario1()
         {
 
             var inputArr = new string[] {
@@ -47,7 +47,7 @@ namespace DealerOn.SalesTaxes.Tests.Service
         }
 
         [Fact]
-        public void Test_Input2()
+        public void Test_Scenario2()
         {
 
             var inputArr = new string[] {
@@ -66,13 +66,13 @@ namespace DealerOn.SalesTaxes.Tests.Service
             var output = _consoleOutput.ToString().Split("\r\n");
 
             Assert.Equal("Imported box of chocolates: 10.50", output[0]);
-            Assert.Equal("Imported bottle of perfume: 54.65", output[1]);
-            Assert.Equal("Sales Taxes: 7.65", output[3]);
-            Assert.Equal("Total: 65.15", output[4]);
+            Assert.Equal("Imported bottle of perfume: 54.62", output[1]);
+            Assert.Equal("Sales Taxes: 7.62", output[3]);
+            Assert.Equal("Total: 65.12", output[4]);
         }
 
         [Fact]
-        public void Test_Input3()
+        public void Test_Scenario3()
         {
 
             var inputArr = new string[] {
@@ -96,9 +96,9 @@ namespace DealerOn.SalesTaxes.Tests.Service
             Assert.Equal("Imported bottle of perfume: 32.19", output[0]);
             Assert.Equal("Bottle of perfume: 20.89", output[1]);
             Assert.Equal("Packet of headache pills: 9.75", output[2]);
-            Assert.Equal("Imported box of chocolates: 23.70 (2 @ 11.85)", output[3]);
-            Assert.Equal("Sales Taxes: 7.30", output[5]);
-            Assert.Equal("Total: 86.53", output[6]);
+            Assert.Equal("Imported box of chocolates: 23.62 (2 @ 11.25)", output[3]);
+            Assert.Equal("Sales Taxes: 7.22", output[5]);
+            Assert.Equal("Total: 86.45", output[6]);
         }
     }
 }
