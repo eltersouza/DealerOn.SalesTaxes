@@ -1,0 +1,12 @@
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Domain\bin\Debug\net6.0\DealerOn.SalesTaxes.Domain.deps.json
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Domain\bin\Debug\net6.0\DealerOn.SalesTaxes.Domain.dll
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Domain\bin\Debug\net6.0\DealerOn.SalesTaxes.Domain.pdb
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Domain\obj\Debug\net6.0\DealerOn.SalesTaxes.Domain.csproj.AssemblyReference.cache
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Domain\obj\Debug\net6.0\DealerOn.SalesTaxes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Domain\obj\Debug\net6.0\DealerOn.SalesTaxes.Domain.AssemblyInfoInputs.cache
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Domain\obj\Debug\net6.0\DealerOn.SalesTaxes.Domain.AssemblyInfo.cs
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Domain\obj\Debug\net6.0\DealerOn.SalesTaxes.Domain.csproj.CoreCompileInputs.cache
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Domain\obj\Debug\net6.0\DealerOn.SalesTaxes.Domain.dll
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Domain\obj\Debug\net6.0\refint\DealerOn.SalesTaxes.Domain.dll
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Domain\obj\Debug\net6.0\DealerOn.SalesTaxes.Domain.pdb
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Domain\obj\Debug\net6.0\ref\DealerOn.SalesTaxes.Domain.dll

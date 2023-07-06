@@ -1,0 +1,15 @@
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\bin\Debug\net6.0\DealerOn.SalesTaxes.Core.deps.json
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\bin\Debug\net6.0\DealerOn.SalesTaxes.Core.dll
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\bin\Debug\net6.0\DealerOn.SalesTaxes.Core.pdb
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\bin\Debug\net6.0\DealerOn.SalesTaxes.Domain.dll
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\bin\Debug\net6.0\DealerOn.SalesTaxes.Domain.pdb
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\obj\Debug\net6.0\DealerOn.SalesTaxes.Core.csproj.AssemblyReference.cache
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\obj\Debug\net6.0\DealerOn.SalesTaxes.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\obj\Debug\net6.0\DealerOn.SalesTaxes.Core.AssemblyInfoInputs.cache
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\obj\Debug\net6.0\DealerOn.SalesTaxes.Core.AssemblyInfo.cs
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\obj\Debug\net6.0\DealerOn.SalesTaxes.Core.csproj.CoreCompileInputs.cache
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\obj\Debug\net6.0\DealerOn.SalesTaxes.Core.csproj.CopyComplete
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\obj\Debug\net6.0\DealerOn.SalesTaxes.Core.dll
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\obj\Debug\net6.0\refint\DealerOn.SalesTaxes.Core.dll
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\obj\Debug\net6.0\DealerOn.SalesTaxes.Core.pdb
+C:\repos\code-challenges\DealerOnBackend\DealerOn.SalesTaxes\DealerOn.SalesTaxes.Core\obj\Debug\net6.0\ref\DealerOn.SalesTaxes.Core.dll
