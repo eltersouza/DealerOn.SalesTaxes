@@ -32,7 +32,8 @@ namespace DealerOn.SalesTaxes.Core.Services
                 var itemPriceWithoutTax = item.Price * item.Quantity;
 
                 item.Total = itemPriceWithTax;
-                item.Taxes = itemTax;
+                item.Taxes = itemTax * item.Quantity;
+                item.Price = item.Price + itemTax;
 
                 totalGross += itemPriceWithTax;
                 totalNet += itemPriceWithoutTax;
@@ -43,7 +44,7 @@ namespace DealerOn.SalesTaxes.Core.Services
                     var itemToUpdate = sale.Items.Single(it => it.Name == item.Name);
                     itemToUpdate.Quantity += item.Quantity;
                     itemToUpdate.Total = itemToUpdate.Total * itemToUpdate.Quantity;
-                    itemToUpdate.Taxes = itemToUpdate.Taxes * itemToUpdate.Taxes;
+                    itemToUpdate.Taxes = itemToUpdate.Taxes * itemToUpdate.Quantity;
                 }
                 else
                 {
