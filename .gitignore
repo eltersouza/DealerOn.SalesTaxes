@@ -412,3 +412,13 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore,visualstudio
+.vs/*
+
+DealerOn.SalesTaxes.Console/bin/*
+DealerOn.SalesTaxes.Console/obj/*
+DealerOn.SalesTaxes.Core/bin/*
+DealerOn.SalesTaxes.Core/obj/*
+DealerOn.SalesTaxes.Domain/bin/*
+DealerOn.SalesTaxes.Domain/obj/*
+DealerOn.SalesTaxes.Tests/bin/*
+DealerOn.SalesTaxes.Tests/obj/*
